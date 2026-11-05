@@ -1,0 +1,11 @@
+Method,Accuracy,MacroF1,BalancedAccuracy
+KNN Original,78.29,51.72,49.13
+KNN PCA,78.48,51.06,48.42
+KNN FDA,75.47,43.18,42.57
+KNN Original Balanced,64.29,49.49,57.51
+KNN PCA Balanced,63.16,48.24,56.1
+KNN FDA Balanced,57.14,41.9,48.4
+Bayesian Original,68.61,48.89,52.21
+Bayesian PCA,75.56,48.54,46.82
+Bayesian FDA,75.94,45.38,43.66
+Mahalanobis Original,46.24,40.65,55.01

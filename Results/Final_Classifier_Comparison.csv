@@ -1,0 +1,4 @@
+Classifier,Accuracy,MacroF1,BalancedAccuracy
+KNN,78.29,51.72,49.13
+Gaussian Naive Bayes,68.61,48.89,52.21
+Mahalanobis,46.24,40.65,55.01
